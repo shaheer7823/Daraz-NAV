@@ -1,0 +1,17 @@
+*{margin:0%; padding: 0%;
+div {
+    width: 1600px;
+    height: 60px;
+    margin: top;
+  background-color: #F85606;
+}
+.flex{display: flex;}
+.nav1 ul li{
+    display: inline;
+    margin: left: 67px;
+    font: size 18px;
+}
+.nav ul li:hover{
+    color: #F85606;
+    font-style: underline;
+}
